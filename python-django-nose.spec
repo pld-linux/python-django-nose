@@ -20,6 +20,7 @@ URL:		https://pypi.org/project/django-nose/
 BuildRequires:	python-modules >= 1:2.6
 BuildRequires:	python-setuptools
 %if %{with tests}
+BuildRequires:	python-django
 BuildRequires:	python-nose >= 1.2.1
 %endif
 %endif
@@ -27,6 +28,7 @@ BuildRequires:	python-nose >= 1.2.1
 BuildRequires:	python3-modules >= 1:3.4
 BuildRequires:	python3-setuptools
 %if %{with tests}
+BuildRequires:	python3-django
 BuildRequires:	python3-nose >= 1.2.1
 %endif
 %endif
