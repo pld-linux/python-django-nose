@@ -9,7 +9,7 @@ Summary:	Make Django tests simple and snappy
 Summary(pl.UTF-8):	Testy Django jako proste i żwawe
 Name:		python-django-nose
 Version:	1.4.7
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/django-nose/
